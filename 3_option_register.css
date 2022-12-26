@@ -1,0 +1,140 @@
+.school__btn {
+    font-size: 1rem;
+    background-image: linear-gradient(to top, #62782f 0%, #62782f 100%);
+    padding: 14px 32px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 2rem;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.15s;
+    outline: none;
+    top: 400px;
+    display: inline-block; 
+    margin: auto;
+    left: 500px;
+}
+
+.school__btn a {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-decoration: none;
+}
+
+.school__btn:after {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: #b0c194;
+    transition: all 0.35s;
+    border-radius: 10px;
+}
+
+.school__btn:hover {
+    color: #fff;
+}
+
+.school__btn:hover:after {
+    width: 100%;
+}
+
+
+
+
+
+
+
+.student__btn {
+    font-size: 1rem;
+    background-image: linear-gradient(to top, #62782f 0%, #62782f 100%);
+    padding: 14px 32px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 2rem;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.15s;
+    outline: none;
+    top: 400px;
+    display: inline-block; 
+    margin: auto;
+    left: 700px;
+}
+
+.student__btn a {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-decoration: none;
+}
+
+.student__btn:after {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: #b0c194;
+    transition: all 0.35s;
+    border-radius: 10px;
+}
+
+.student__btn:hover {
+    color: #fff;
+}
+
+.student__btn:hover:after {
+    width: 100%;
+}
+
+
+
+.bus__btn {
+    font-size: 1rem;
+    background-image: linear-gradient(to top, #62782f 0%, #62782f 100%);
+    padding: 14px 32px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 2rem;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.15s;
+    outline: none;
+    top: 400px;
+    display: inline-block; 
+    margin: auto;
+    left: 900px;
+}
+
+.bus__btn a {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-decoration: none;
+}
+
+.bus__btn:after {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: #b0c194;
+    transition: all 0.35s;
+    border-radius: 10px;
+}
+
+.bus__btn:hover {
+    color: #fff;
+}
+
+.bus__btn:hover:after {
+    width: 100%;
+}
+

@@ -1,0 +1,26 @@
+body {
+    display: grid;
+    background-color: #2192b8;
+    background-image: linear-gradient(to top, #D1ECFA 0%, #027fa9 100%);
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+    margin: 10px 0 10px 0;
+}
+
+h1 {
+    color: black;
+}
+
+.container {
+    margin: auto;
+}
+
+
+
+  

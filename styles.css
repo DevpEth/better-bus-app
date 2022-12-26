@@ -61,7 +61,7 @@
 
 
 .navbar__links {
-    color: #b0c194;
+    color: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -127,6 +127,7 @@
         z-index: -1;
         background: #027fa9;
         background-image: linear-gradient(to top, #75c9f3 0%, #027fa9 100%);
+        
     }
 
     .navbar__menu.active {
